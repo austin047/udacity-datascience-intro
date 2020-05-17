@@ -1,0 +1,7 @@
+
+# Survey files
+survey-results-public.csv
+survey-results-schema.csv
+
+# notebook files and dirs
+.ipynb_checkpoints/

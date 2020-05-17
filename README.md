@@ -27,7 +27,7 @@ There are 3 main files in the project. One notebook 'project.ipynb' file contain
 
 ## Results<a name="results"></a>
 
-The main findings of this source code can be found at the end of the main project.ipynb notebook file and  here [here](https://medium.com/@fuhaustin/can-you-earn-high-in-the-tech-field-without-a-higher-degree-aaee2837098c).
+The main findings of this source code can be found at the end of the main project.ipynb notebook file and  here [here](https://medium.com/@fuhaustin/can-you-earn-high-in-the-tech-field-without-a-higher-degree-aaee2837098c?sk=cf87f301485f1dc2405ceb59446f9eee).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
